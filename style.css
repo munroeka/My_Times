@@ -1,0 +1,46 @@
+header{
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+align-items: center;
+position: fixed;
+
+}
+
+header nav{
+  padding-right: 40px;
+}
+
+a{
+color: black;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+.logo img{
+
+}
+
+.logo span{
+  color: Aquamarine;
+}
+
+.column{
+  display: flex;
+  flex-direction: column;
+}
+
+.first.column{
+  width: 630px;
+}
+
+.second.column{
+  width: 300px;
+}
+.third.column{
+  width: 240px;
+}
